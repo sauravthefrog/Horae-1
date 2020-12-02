@@ -5,7 +5,8 @@ resources:
       path: sauravthefrog/Horae-1
       gitProvider: GitHub
       branches:
-        include: master        
+        include: master
+        include: main
   - name: gitRepo_code
     type: GitRepo
     configuration:
