@@ -133,4 +133,4 @@ See also the list of [contributors](https://github.com/jfrog/horae/blob/main/con
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](https://github.com/jfrog/horae/blob/main/LICENSE.md) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](https://github.com/jfrog/horae/blob/main/LICENSE.md) file for details.
